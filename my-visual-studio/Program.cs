@@ -10,6 +10,7 @@ namespace my_visual_studio
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HI");
         }
     }
 }
